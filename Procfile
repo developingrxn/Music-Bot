@@ -1,1 +1,1 @@
-worker: npm start MusicBot.js
+worker: node MusicBot.js
